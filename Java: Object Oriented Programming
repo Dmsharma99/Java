@@ -1,2 +1,15 @@
-Starting with the Very fist Topic 
-Instance Variable Default Values
+//  Instance Variable Default Values
+// The Instance Variable have some default value 
+// The default value of the "string" is "null"
+// The default value of the "int" is "0"
+// The default value of the "float is "0.0"
+// The default value of the "boolean is "false"
+
+// Syntax
+
+// create a new module name with Car.java
+
+public class Car {
+public String doors;
+public String engine;
+public String driver

@@ -14,7 +14,7 @@ o/p
 
 	Bike@27c170f0.
  
-	//This is noting but the assress value of the object
+	//This is noting but the address value of the object
 
 
 This is not the ideal setp to do
